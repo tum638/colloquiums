@@ -1,0 +1,80 @@
+:root {
+  --charcoal: #36454f;
+  --light-charcoal: #cacfd5;
+}
+
+.subheader {
+  font-weight: 100;
+}
+.header {
+  font-size: 4em;
+}
+.cardholder {
+  /* border: black solid; */
+  display: grid;
+  text-align: center;
+  gap: 0.5em;
+  grid-template-columns: 33% 33% 33%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  padding: 2em;
+  height: auto;
+
+  
+  
+  
+}
+.card {
+  /* border: black solid; */
+  width: 20em;
+  height: auto;
+  border-radius: 1rem;
+  overflow: hidden;
+  /* padding-bottom: 1rem; */
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  background-color: #B2C8B2;
+  margin: auto;
+}
+.description {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+
+.professorname {
+  color: black;
+  font-size: 1.2em;
+  margin-bottom: 0.8rem;
+  
+}
+.cardheader {
+  width: 100%;
+}
+.cardbutton {
+  background-color: var(
+    --charcoal
+  );
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 2em;
+  padding-top:0.2rem;
+  padding-bottom: 0.2rem;
+  color: white;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+}
+.image {
+  width: 100%;
+  height: 20rem;
+
+}
+.footernotes {
+  font-size: 0.7em;
+}
+.footer {
+  margin-bottom: 1rem;
+}
