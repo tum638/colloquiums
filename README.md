@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you added to improve the site's functionality!
+
 * [x] Avoided repeating code by storing event components in a list.
 * [x] Used grid display to allow ease of mobile reponsiveness.
 
