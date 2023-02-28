@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Colloquiums*
 
-Submitted by: **Tanatswa**
+Submitted by: **Tanatswa Manyakara**
 
 This web app: **displays information about upcoming colloquiums at a school**
 
