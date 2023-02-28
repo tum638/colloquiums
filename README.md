@@ -32,7 +32,6 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
 (Online GIF maker)
 
 ## Notes
